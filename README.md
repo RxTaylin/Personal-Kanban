@@ -39,8 +39,22 @@ Antes de iniciar, certifique-se de ter instalado:
    ```
 4. Acesse no navegador:
    ```
-   http://localhost:
+   http://localhost:3000
    ```
+
+---
+
+## 📚 Detalhes Técnicos
+
+- **Frontend:** React com TypeScript
+- **Gerenciamento de Estado:** React Hooks
+- **Arrastar e Soltar:** dnd-kit
+- **Estilização:** Tailwind CSS
+- **Gráficos:** Recharts
+- **Armazenamento:** localStorage do navegador
+- **Build Tool:** Vite
+- **Linting:** ESLint
+- **Transformação de CSS:** PostCSS com Autoprefixer
 
 ---
 
@@ -59,17 +73,6 @@ Antes de iniciar, certifique-se de ter instalado:
 - **Distribuição por status e prioridade**
 - **Gráficos de progresso** ao longo do tempo
 - **Tempo médio de conclusão** de tarefas
-
----
-
-## 📚 Detalhes Técnicos
-
-- **Frontend:** React com TypeScript
-- **Gerenciamento de Estado:** React Hooks
-- **Arrastar e Soltar:** dnd-kit
-- **Estilização:** Tailwind CSS
-- **Gráficos:** Recharts
-- **Armazenamento:** localStorage do navegador
 
 ---
 
